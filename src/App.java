@@ -4,7 +4,10 @@ public class App {
         System.out.println("Hello, Java!");
         System.out.println("Hello, World!");
         System.out.println("Hello, LP!");
-        System.out.println("Hello, Git!");
+        System.out.println("Hello, everyone!");
+        System.out.println("Hello, Mr. Nothing!");
+        System.out.println("Hello, Bob!");
+        System.out.println("Hello, AssHole!");
 
     }
 }
